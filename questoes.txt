@@ -1,0 +1,26 @@
+Questões
+Responda sucintamente os itens a seguir em um .txt levando as perguntas e as
+respostas para o controle de versão da maneira que julgar mais apropriado:
+
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+ Se levarmos em consideração a criação inicial do servidor e o custo de aproximadamente 6 digitos para ter capacidade de armazenamento
+ processamento necessárias, necessitaria de pessoal qualificado para atualização constante e maiores exigencias de segurança até mesmo física.
+ Logo, para uma solução dessa creio que seria melhor disponibilizá-la usando Cloud que seria menos custosa e atenderia nossas necessidades.
+ 
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
+solução, responda qual ferramenta acreditas ser apropriada para o controle de
+tarefas da equipe, a ferramenta é ágil?
+Usariamos o scrum onde teriamos definidas cada uma das funções dos participantes. Uma ferramenta que ajuda no controle de tarefas é o JIRA,
+onde as sprints e as estórias são cadastradas e pontuadas. Sim, é um método ágil.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+Sim. Apesar de não possuir função de liderança hoje em dia, mas possuo experiencia de liderar uma equipe de dois funcionários e dois estagiários
+em minha empresa anterior e obter exito na entrega do projeto.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+Sugeriria uma plataforma automatizada de avaliação que pudesse avaliar exatamente o necessária e fornecer um resumo com pontos de melhoria ao
+candidato.
+
+5. Acha válido esse desafio para o processo que está participando?
+Creio ser um desafio válido, a medida que a forma de trabalho está sendo colocada nesse desafio, que requer autogerenciamento e poder/dever de
+definição das ferramentas necessárias.
